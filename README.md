@@ -1,2 +1,2 @@
 # Bingo
-Web de bingo camacho
+Web del bingo camacho

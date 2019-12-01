@@ -1,0 +1,84 @@
+.morado{
+    background-color: #4c1699;
+}
+
+.naranja{
+    background-color: #f18527;
+}
+
+a {
+    color: #4c1699;
+    text-decoration: none;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+a:hover{
+    color: #9347ff;
+}
+
+
+
+.blanco{
+    color: white;
+}
+
+.border1{
+    border: 2px solid black;
+}
+
+.border2{
+    border: 1px solid #f18527;
+}
+
+.clarito{
+    background-color: #FFC36C;
+    color: #FFC36C ;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(76, 22, 153)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-toggler {
+    border-color: rgb(76, 22, 153);
+}
+
+.img-foot{
+    max-width: 45px;
+    max-height: 45px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.img-foot:hover{
+    
+    max-width: 55px;
+    max-height: 55px;
+}
+
+.cartaoro{
+    background-color: #DF9722;
+}
+
+.cartaplata{
+    background-color: #B0ACA6;
+}
+
+.cartabronce{
+    background-color: #64420F;
+}
+
+.img-carta{
+    max-height: 220px;
+}
+
+.card{
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
